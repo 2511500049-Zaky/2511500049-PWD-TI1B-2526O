@@ -150,6 +150,18 @@
         <button type="reset">Batal</button>
       </form>
     </section>
+
+    <section id="IPK">
+      <?php 
+            $namamatkul1='Algoritma dan Struktur Data';
+        $sksmatkul1='4';
+        $nilaihadir1='90';
+        $nilaitugas1='60';
+        $nilaiuts1='80';
+        $nilaiuas1='70';
+        
+        ?>
+</section>
   </main>
   <footer>
     <p>&copy; &#9786; 2025 Muhammad Zaky Syanov Ziyad</p>

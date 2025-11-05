@@ -10,4 +10,5 @@ belajar:<br>
    <li>copy index.html, style.css, script,js</li>
    <li>Membuat variabel php nim, nama, hobby, pekerjaan, dll</li>
    <li>Menambahkan php di bagian section id about</li>
+   <li>menambahkan section id IPK</li>
 </ol>
