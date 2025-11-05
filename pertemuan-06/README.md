@@ -1,6 +1,6 @@
 # pertemuan-06
 
-hari ini, kamis 3o oktober 2025,
+hari ini, Rabu 5 November 2025,
 saya Zaky<br>
 NIM: 2511500049<br>
 <br>
@@ -12,4 +12,5 @@ belajar:<br>
    <li>Menambahkan php di bagian section id about</li>
    <li>menambahkan section id IPK</li>
    <li>Membuat variabel matkul, sksmatkul, nilai tugas, nilai uts, dan nilai uas</li>
+   <li>Membuat variabel menghitung nilaiakhir</li>
 </ol>
