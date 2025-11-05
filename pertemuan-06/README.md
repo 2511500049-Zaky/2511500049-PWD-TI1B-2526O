@@ -11,4 +11,5 @@ belajar:<br>
    <li>Membuat variabel php nim, nama, hobby, pekerjaan, dll</li>
    <li>Menambahkan php di bagian section id about</li>
    <li>menambahkan section id IPK</li>
+   <li>Membuat variabel matkul, sksmatkul, nilai tugas, nilai uts, dan nilai uas</li>
 </ol>

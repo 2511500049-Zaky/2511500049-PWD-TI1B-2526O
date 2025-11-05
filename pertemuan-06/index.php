@@ -153,13 +153,37 @@
 
     <section id="IPK">
       <?php 
-            $namamatkul1='Algoritma dan Struktur Data';
+      $namamatkul1='Algoritma dan Struktur Data';
         $sksmatkul1='4';
         $nilaihadir1='90';
         $nilaitugas1='60';
         $nilaiuts1='80';
         $nilaiuas1='70';
-        
+
+      $namamatkul2='Agama';
+        $sksmatkul2='2';
+        $nilaihadir2='70';
+        $nilaitugas2='50';
+        $nilaiuts2='60';
+        $nilaiuas2='80';
+      $namamatkul3='Kalkulus';
+        $sksmatkul3='6';
+        $nilaihadir3='90';
+        $nilaitugas3='90';
+        $nilaiuts3='75';
+        $nilaiuas3='71';
+      $namamatkul4='Logika Informatika';
+        $sksmatkul4='5';
+        $nilaihadir4='81';
+        $nilaitugas4='91';
+        $nilaiuts4='75';
+        $nilaiuas4='80';
+      $namamatkul5='Pemrograman Web Dasar';
+        $sksmatkul5='3';
+        $nilaihadir5='69';
+        $nilaitugas5='80';
+        $nilaiuts5='90';
+        $nilaiuas5='100';
         ?>
 </section>
   </main>
