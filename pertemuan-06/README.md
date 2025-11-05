@@ -14,4 +14,5 @@ belajar:<br>
    <li>Membuat variabel matkul, sksmatkul, nilai tugas, nilai uts, dan nilai uas</li>
    <li>Membuat variabel menghitung nilaiakhir</li>
    <li>Membuat nilai bobot, dan menghitung ipk</li>
+   <li>Membuat p strong matkul1 sampai 5, dan menambahkan h3</li>
 </ol>
