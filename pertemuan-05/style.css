@@ -138,6 +138,64 @@ header li a:active {
     }
 }
 
+.menu-toggle {
+    display: none;
+    background: none;
+    border: none;
+    color: #fff;
+    font-size: 28px;
+    cursor: pointer;
+}
+
+@media (max-width:600px) {
+    .menu-toggle {
+        display: block;
+        position: absolute;
+        left: 16px;
+        top: 8px;
+    }
+       nav {
+        display: none;
+        flex-direction: column;
+        width: 100%;
+        padding: 5px 0;
+    }
+
+    nav.active {
+        display: flex;
+    }
+
+    header {
+        padding: 16px;
+        position: sticky;
+        top: 0;
+        z-index: 1000;
+    }
+
+    header h1 {
+        margin: 0 0 8px;
+        font-size: 20px;
+        line-height: 1.2;
+    }
+
+    header ul {
+        flex-direction: column;
+        align-items: stretch;
+        gap: 8px;
+        margin: 8px 0 0;
+    }
+
+    header li a {
+        display: block;
+        padding: 12px 14px;
+        margin: 0;
+        border: 1px solid rgba(255, 255, 255, .35);
+        background: rgba(255, 255, 255, .08);
+        backdrop-filter: saturate(120%);
+        width: 100%;
+    }
+}
+
 
 #about {
       background-color: #ffffff;
@@ -217,9 +275,10 @@ header li a:active {
         flex-shrink: 0;
     }
 
+
     #contact input, #contact textarea {
         flex: 1;
-        border: 1px solid #003366;
+        border: 1px solid #ccc;
         border-radius: 6px;
         padding: 8px;
         color: #000;
