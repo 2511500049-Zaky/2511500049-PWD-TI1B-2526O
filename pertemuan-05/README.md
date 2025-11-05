@@ -3,7 +3,7 @@
 NIM: 2511500049 <br>
 Nama: Muhammad Zaky Syanov Ziyad <br>
 
-Hari ini Kamis, 23 Oktober 2025 Saya mempelajari
+Hari ini Kamis, 5 November 2025 Saya mempelajari
 
 <ol>
 <li>Mencopy otomatis file index dan css di terminal</li>
