@@ -126,7 +126,7 @@
         <p>
             <strong>Nama Adik:</strong>
             <?php
-                echo $namaadik;
+                echo $Namaadik;
             ?>
         </p>
     </section>
