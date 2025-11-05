@@ -13,4 +13,5 @@ belajar:<br>
    <li>menambahkan section id IPK</li>
    <li>Membuat variabel matkul, sksmatkul, nilai tugas, nilai uts, dan nilai uas</li>
    <li>Membuat variabel menghitung nilaiakhir</li>
+   <li>Membuat nilai bobot, dan menghitung ipk</li>
 </ol>
